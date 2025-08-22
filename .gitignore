@@ -124,3 +124,9 @@ ENV/
 *.old
 *.orig
 *.save
+
+# Node.js dependencies - COMPLETELY IGNORED
+node_modules/
+node_modules/**
+**/node_modules/
+**/node_modules/**
